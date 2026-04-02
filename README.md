@@ -88,4 +88,4 @@ In the end, I just really enjoy figuring things out and learning along the way �
 
 ## 🤝 Let's connect
 
-Feel free to reach me through [LinkedIn](http://www.linkedin.com/in/sabrinamidori)! I love exchanging ideas and experiences about technology and hobbies 😸
+Feel free to reach out to me on [LinkedIn](http://www.linkedin.com/in/sabrinamidori)! I love exchanging ideas and experiences about technology and hobbies 😸
