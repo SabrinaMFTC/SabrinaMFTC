@@ -70,7 +70,7 @@ In the end, I just really enjoy figuring things out and learning along the way �
 
 ---
 
-## 🧩 Experience highlights
+## 💡 Experience highlights
 
 🚨 **Incident Response & Monitoring**
   Worked with Datadog dashboards, alerts, logs, and incident triage in production environments
@@ -88,4 +88,4 @@ In the end, I just really enjoy figuring things out and learning along the way �
 
 ## 🤝 Let's connect
 
-💼 LinkedIn: [www.linkedin.com/in/sabrinamidori](http://www.linkedin.com/in/sabrinamidori)
+Feel free to reach me through [LinkedIn](http://www.linkedin.com/in/sabrinamidori)! I love exchanging ideas and experiences about technology and hobbies 😸
