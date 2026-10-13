@@ -2,7 +2,7 @@
 
 ## I'm Sabrina 😊
 
-I'm a Computer Science student based in São Paulo, Brazil, graduating in 2026, focused on backend engineering and DevOps / platform reliability.
+I’m a Computer Science graduate from Mackenzie University, based in São Paulo, Brazil, currently pursuing a postgraduate degree in DevOps and Cloud Architecture at FIAP.
 
 I like working close to systems — understanding how they behave in production, monitoring them, fixing issues, and improving reliability. For me, it’s not just about solving problems, but making sure they don’t happen again.
 
@@ -14,9 +14,11 @@ In the end, I just really enjoy figuring things out and learning along the way �
 
 ## 🚀 About me
 
-🎓 Computer Science student at Mackenzie (graduating June 2026)
+🎓 B.Sc. in Computer Science (2026)
 
-💼 Currently working as a **TechOps First Responder** (handling incidents, alerts and system reliability) 
+📚 Currently pursuing a postgraduate degree in DevOps and Cloud Architecture
+
+💼 Working as an **Operations Engineer** (handling incidents, alerts and system reliability) 
 
 ⚖️ Background in **Law** (yes, I switched careers — long story, good decision) 
 
@@ -26,21 +28,12 @@ In the end, I just really enjoy figuring things out and learning along the way �
 
 ---
 
-## 🌱 What I'm currently learning
-
-* Kubernetes (beyond the basics — real-world usage)
-* Advanced **Spring Boot & Spring Security**
-* System design & scalability patterns
-* Observability best practices (metrics, logs, tracing)
-* Authentication & identity (Keycloak, JWT flows)
-
----
-
 ## 💻 Tech stack & tools
 
 ### 🧠 Backend & APIs
 
 <p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
@@ -60,10 +53,15 @@ In the end, I just really enjoy figuring things out and learning along the way �
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="40"/>
 </p>
 
-### 🛠️ Others
+### ☁️ Cloud
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40"/>
+</p>
+
+### 🛠️ Version Control & Collaboration
+
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" height="40"/>          
 </p>
