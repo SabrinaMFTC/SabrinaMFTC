@@ -2,7 +2,7 @@
 
 ## I'm Sabrina 😊
 
-I’m a Computer Science graduate from Mackenzie University, based in São Paulo, Brazil, currently pursuing a postgraduate degree in DevOps and Cloud Architecture at FIAP.
+I’m a Computer Science graduate from Mackenzie Presbyterian University, based in São Paulo, Brazil, currently pursuing a postgraduate degree in DevOps and Cloud Architecture at FIAP.
 
 I like working close to systems — understanding how they behave in production, monitoring them, fixing issues, and improving reliability. For me, it’s not just about solving problems, but making sure they don’t happen again.
 
